@@ -1,0 +1,7 @@
+After finishing the tutorial, some more things to do:
+- Randomize or change who starts first
+    - this means not being able to just use mod to determine who goes next.
+- Reset / Restart button:
+    - Show after winner is decided
+    - Wipes everything
+    
